@@ -1,0 +1,5 @@
+# Ignorer le dossier .vs
+.vs/
+
+# Ignorer le dossier bin
+bin/
